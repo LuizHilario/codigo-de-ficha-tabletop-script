@@ -1,0 +1,1 @@
+# codigo-de-ficha-tabletop-script
